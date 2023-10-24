@@ -2,8 +2,9 @@ MY LEARN PROGRESS
 ==
 
 Dicoding For University
---
-* Belajar SQL. (Progress 100%)
-* Belajar Git dan Github.
-* Memulai Pemrograman dengan Haskell
-* Belajar UX Design
+
+24 Oktober 2023 (Progress 100%)
+* Belajar SQL. 
+* Belajar dasar perintah pada SQL
+* Belajar membuat database di DBBrowserSQLite
+* Belajar mwmanipulasi database
